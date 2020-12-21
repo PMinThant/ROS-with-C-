@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/edi/ros_revision/catkin_ws/src/node_tuto/build/devel/setup.sh

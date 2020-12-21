@@ -1,0 +1,2 @@
+action_pmt:exampl_models:learning_tf:minimal_robot_description:mobot_urdf:node_tuto:pmt:r2d2:robot_setup_tf:using_markers
+-DCATKIN_DEVEL_PREFIX=/home/edi/ros_revision/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/edi/ros_revision/catkin_ws/install -G Unix Makefiles

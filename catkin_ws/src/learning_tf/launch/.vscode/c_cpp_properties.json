@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/edi/ros_revision/catkin_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/edi/ros_revision/catkin_ws/src/action_pmt/include/**",
+                "/home/edi/ros_revision/catkin_ws/src/learning_tf/include/**",
+                "/home/edi/Codes/catkin_ws/src/pluginlib_tutorials_/include/**",
+                "/home/edi/ros_revision/catkin_ws/src/pmt/include/**",
+                "/home/edi/Codes/catkin_ws/src/ros-exercises/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu18",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

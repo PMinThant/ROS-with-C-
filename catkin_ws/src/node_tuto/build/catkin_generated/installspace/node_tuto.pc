@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: node_tuto
+Description: Description of node_tuto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

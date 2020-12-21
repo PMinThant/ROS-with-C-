@@ -1,0 +1,8 @@
+prefix=/home/edi/ros_revision/catkin_ws/devel
+
+Name: exampl_models
+Description: Description of exampl_models
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

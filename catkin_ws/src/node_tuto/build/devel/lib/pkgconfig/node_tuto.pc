@@ -1,0 +1,8 @@
+prefix=/home/edi/ros_revision/catkin_ws/src/node_tuto/build/devel
+
+Name: node_tuto
+Description: Description of node_tuto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
